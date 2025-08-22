@@ -1,5 +1,5 @@
 from parser import parse_input
-from handler import *
+from handler import add_contact, change_contact, show_phone, show_all
 
 def main():
     contacts = {}
